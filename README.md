@@ -12,6 +12,6 @@ The Solar Panel system works 365 days a year; even when you’re on a holiday (s
 
 # Demo 
 
-The Dashboard is hosted at solunited.surge.sh
+The Dashboard is hosted at http://solunited.surge.sh
 
 To view the react code for the dashboard visit https://github.com/rishiraj824/Sol-United
